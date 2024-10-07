@@ -1,7 +1,3 @@
-### **README.md**
-
----
-
 # **Task Scheduler with Advanced Python Features** 🛠️
 
 ### **Project Overview**
